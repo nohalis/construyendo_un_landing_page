@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 /* Estilos de Encabezado */
 .header {
   height: 5em;
